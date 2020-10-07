@@ -1,0 +1,1 @@
+print("c: {}".format(((int(input("a: "))**2) + (int(input("b: "))**2)) ** 0.5))
