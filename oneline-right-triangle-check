@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+
+s = True if (int(input("a: "))**2 + int(input("b: "))**2)==int(input("c: "))**2 else False
+
+print(s)
